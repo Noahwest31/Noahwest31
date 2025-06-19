@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Noah West
 
 **Technologist | Researcher | U.S. Army Veteran**  
-Founder of [Extravio Labs](https://extrav.io) – Building intelligent tools at the intersection of language, cognitive science, and AI systems.
+Founder of [Extravio Labs](https://extrav.io/index) – Building intelligent tools at the intersection of language, cognitive science, and AI systems.
 
 ---
 
